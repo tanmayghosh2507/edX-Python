@@ -1,2 +1,2 @@
 # edX-Python
-Python Code for edX course
+Python Code for "Introduction to Python Course" edX
